@@ -1,0 +1,8 @@
+[submodule "Walle-core"]
+	path = Walle-core
+	url = https://github.com/abrahum/Walle-core.git
+	branch = master
+[submodule "khl"]
+	path = khl
+	url = https://github.com/abrahum/khl.git
+	branch = master
